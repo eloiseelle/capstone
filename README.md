@@ -79,3 +79,13 @@ Created visual summaries such as:
 - Incorporate TikTok and social media virality metrics.
 - Use advanced ML models (e.g., XGBoost) for better prediction.
 - Build a dashboard for label teams to explore artist metadata and predictions.
+
+---
+
+## 📧 Contact
+
+**Author:** Éloïse Bouton
+
+LinkedIn: https://www.linkedin.com/in/eloisebouton/
+
+This project is part of the **Springboard Data Science Career Track – Capstone Project**.
